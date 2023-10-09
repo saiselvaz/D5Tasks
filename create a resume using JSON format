@@ -1,0 +1,63 @@
+{
+    "Resume": {
+      "name": "Mari Selvam P",
+      "picture": "",
+      "email": "selva21012000@gmail.com",
+      "phone": "9486185570",
+      "qualification": "Diploma in Mechanical Engineering",
+      "location": {
+        "address": "7, subbiah street",
+        "postalCode": "628002",
+        "city": "Tuticorin-Thoothukudi Dist",
+        "region": "Indian"
+      }
+      
+    },
+    "work": [
+      {
+        "company": "Daimler India Commercial Vehicles Pvt ltd",
+        "position": "NAPS TRAINEE",
+        "startDate": "14.04.2021",
+        "endDate": "up to date",
+        "summary": "A one-sentence to one-paragraph summary of this employer or position"
+        
+    }
+           ],
+        "education": [
+      {
+        "institution": "Chandy Polytechnic college",
+        "area": "Your area of study or degree earned",
+        "studyType": "Full Time",
+        "startDate": "2018",
+        "endDate": "2020",
+        "courses": [
+          "Diploma in Mechanical Engineering"
+        ]
+      }
+    ],
+    
+
+    "skills": [
+      {
+        "name": "python",
+        "level": "beginners",
+        "keywords": [
+          "python"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil & English",
+        "fluency": "Tamil & English"
+      }
+    ],
+    "interests": [
+      {
+        "name": "badmintion",
+        "keywords": [
+          "playing mind relax"
+        ]
+      }
+    ]
+  }
